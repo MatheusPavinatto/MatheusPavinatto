@@ -1,5 +1,6 @@
 - 👋 》Olá, meu nome é Matheus Pavinatto Mendes, e aqui você pode encontrar um pouco sobre mim
 - 👀 》Estou interessado em Estudar programação
 - 🎮 》Estou sempre jogando alguma coisa
-- 🛸 》Discord┃Darkziink#6177
+- 🛸 》Discord┃Darkziink#0345
 - 🛸 》Faço servidores no Discord do nivel basico ao avançando
+- 🌲 》https://linktr.ee/darkziink97
