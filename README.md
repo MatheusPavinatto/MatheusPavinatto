@@ -4,3 +4,4 @@
 - 🛸 》Discord┃Darkziink#0345
 - 🛸 》Faço servidores no Discord do nivel basico ao avançando
 - 🌲 》https://linktr.ee/darkziink97
+- 💿 》Apresento muitas coisas de forma acessíveis através do Discord.
