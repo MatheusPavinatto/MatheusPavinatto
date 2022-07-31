@@ -1,5 +1,5 @@
 ## Oiii eu sou a Matheus Pavinatto, criador de conteúdo.
-- 🛒 | DarkZ Shop: entre no discord, clicando no simbulo do discord abaixo
+- 🎃 | Olá, os 2 discord estão abaixo
 <div align="center">
   <a href="https://github.com/MatheusPavinatto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPavinatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,8 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCrxvQy91aU4PzH-s64vWCkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/darkzmath/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/AJv62PJJSpR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/AJv62PJJSpR" target="_blank"><img src="https://img.shields.io/badge/Discord Principal-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/WrGG7N7HWS" target="_blank"><img src="https://img.shields.io/badge/DarkZShop-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomatheuspavinatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
